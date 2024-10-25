@@ -22,6 +22,6 @@ Sending a sponsored userOperation from our EOA
 pnpm run send
 ```
 
-## Aknowledgements
+## Acknowledgements
 
 - [Destiner/smart-eoa](https://github.com/Destiner/smart-eoa)
